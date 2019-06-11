@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545418109 source:c:\users\workspace\desktop\mini\tp7\location_voiture\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
